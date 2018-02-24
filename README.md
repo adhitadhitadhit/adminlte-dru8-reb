@@ -1,7 +1,7 @@
 # DruAdminLTE ( Drupal theme)
 
 ### Introduction
-DruAdminLTE is a Drupal 8 admin theme based on AdminLTE by Almaseed Studio and based on Yorkshire Drupal theme project. DruAdminLTE can be used as a default theme and administration theme. DruAdminLTE is mobile friendly and supporting Right to Left ( RTL ) direction ( Arabic, Hebrew.... ).
+DruAdminLTE is a Drupal 8 admin theme based on AdminLTE by Almaseed Studio and based on Yorkshire Drupal theme project. DruAdminLTE can be used as a default theme and administration theme. DruAdminLTE is mobile friendly and supporting Right to Left ( RTL ) direction ( Arabic, Hebrew..... ).
 
 ### Demo
 http://www.strategywhiteboard.com/test - Live Demo
