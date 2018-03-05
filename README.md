@@ -12,7 +12,7 @@ Try to open these links on your mobile as well.
 Install as you would normally install a Drupal theme.
 
 ### Configuration
-- Drupal 8
+-  Drupal 8
 Use theme settings to change :
 * Colors.
 * Side Menu icons. (Font Awesome Icons and Ionic Icons).
