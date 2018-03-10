@@ -1,0 +1,51 @@
+druadmin_lte_theme_1col:
+  label: 1 Column (100)
+  category: druadmin_lte_theme
+  template: templates/layout/druadmin_lte_theme-1col
+  regions:
+    top:
+      label: Top region
+    bottom:
+      label: Bottom region
+
+druadmin_lte_theme_2col:
+  label: 2 Column (50/50)
+  category: druadmin_lte_theme
+  template: templates/layout/druadmin_lte_theme-2col
+  regions:
+    left:
+      label: Left region
+    right:
+      label: Right region
+
+druadmin_lte_theme_2col_25:
+  label: 2 Column (25/75)
+  category: druadmin_lte_theme
+  template: templates/layout/druadmin_lte_theme-2col-25
+  regions:
+    left:
+      label: Left region
+    right:
+      label: Right region
+
+druadmin_lte_theme_2col_75:
+  label: 2 Column (75/25)
+  category: druadmin_lte_theme
+  template: templates/layout/druadmin_lte_theme-2col-75
+  regions:
+    left:
+      label: Left region
+    right:
+      label: Right region
+
+druadmin_lte_theme_3col:
+  label: 3 Column (33/33/33)
+  category: druadmin_lte_theme
+  template: templates/layout/druadmin_lte_theme-3col
+  regions:
+    left:
+      label: Left region
+    center:
+      label: Center region
+    right:
+      label: Right region
