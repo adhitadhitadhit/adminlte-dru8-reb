@@ -156,6 +156,13 @@
 <!-- Content Wrapper. Contains page content -->
 <div class="content-wrapper">
 
+  <!-- Page Header (Page header) -->
+  {% if page.header %}   
+  <section class="content-header">
+      {{ page.header }}
+    </section>
+  {% endif %}
+
   <!-- Content Header (Page header) -->
   {% if page.top %}
     <section class="content-header">
