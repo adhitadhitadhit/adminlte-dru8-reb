@@ -2,6 +2,7 @@ base:
   version: 1.x
   js:
     js/script.js: {}
+    lib/popper/js/popper.min.js: {}
     lib/bootstrap/js/bootstrap.min.js: {}
     lib/slimScroll/jquery.slimscroll.min.js: {}
     lib/custom-event-polyfill.js: {}

@@ -20,6 +20,7 @@ Use theme settings to change :
 
 ### Maintainers
 Current maintainers:
+* Mohammed Gomma (mhmd) - https://www.drupal.org/u/mhmd
 * Essam Al-Qaie (3ssom) - https://www.drupal.org/u/3ssom
 * Nahedh Alharbi (nahedh) - https://www.drupal.org/u/nahedh
 * Yasir Shah (Yasir)
